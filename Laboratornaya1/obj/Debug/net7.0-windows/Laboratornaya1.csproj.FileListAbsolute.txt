@@ -1,0 +1,17 @@
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\bin\Debug\net7.0-windows\Laboratornaya1.exe
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\bin\Debug\net7.0-windows\Laboratornaya1.deps.json
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\bin\Debug\net7.0-windows\Laboratornaya1.runtimeconfig.json
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\bin\Debug\net7.0-windows\Laboratornaya1.dll
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\bin\Debug\net7.0-windows\Laboratornaya1.pdb
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.Form1.resources
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.Properties.Resources.resources
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.csproj.GenerateResource.cache
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.AssemblyInfoInputs.cache
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.AssemblyInfo.cs
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.dll
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\refint\Laboratornaya1.dll
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.pdb
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\Laboratornaya1.genruntimeconfig.cache
+D:\Project Visual Studio\Laboratornaya1\Laboratornaya1\obj\Debug\net7.0-windows\ref\Laboratornaya1.dll
